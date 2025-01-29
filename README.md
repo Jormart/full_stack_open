@@ -7,6 +7,7 @@ This repository contains the solutions and exercises for the **Full Stack Open**
 Throughout this course, you will learn how to build full-stack web applications using **JavaScript** on both the frontend and backend. Exercises include creating applications such as a notes app, a blog platform, and more.
 
 ### Course Content:
+- **Part 0**: Fundamentals of Web apps.
 - **Part 1**: React fundamentals and client-side web applications.
 - **Part 2**: Building server-side applications with Node.js and Express.
 - **Part 3**: Connecting to databases with MongoDB.
