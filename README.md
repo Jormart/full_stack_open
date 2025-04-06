@@ -27,4 +27,4 @@ Make sure you have the following tools installed on your local machine:
 ### Steps to get the project up and running locally:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/fullstackopen.git
+   git clone https://github.com/Jormart/full_stack_open.git
